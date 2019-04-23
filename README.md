@@ -24,6 +24,8 @@ Then run the file:
 json-server db.json
 ```
 
+You'll be making a `GET` request to: `http://localhost:3005/rappers` to get all your rappers!
+
 ### Questions we want to ask ourselves when we are designing applications
 - "What are the components that make this user interface? How can I break them down?"
 - "Where should state live for this particular piece of functionality?"
